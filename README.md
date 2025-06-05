@@ -1,4 +1,4 @@
-# 📊 Global-SuperStore-Retail-Analysis-Power-BI
+![image](https://github.com/user-attachments/assets/58aa2228-543a-4a5c-93b1-78e4f5b1c228)# 📊 Global-SuperStore-Retail-Analysis-Power-BI
 
 <img width="952" alt="image" src="https://github.com/user-attachments/assets/19979350-1c9e-475e-b174-b9b6267a5c1d" />
 
@@ -49,14 +49,18 @@ This project centers around **analyzing global sales data from Superstore**, a r
 
 - Source: SuperStore sample dataset
 
-- - Format: `.csv` files
+- Format: `.csv` files
 
 - Table: Comprises 3 main tables, including  `Orders`(Transaction details), `People` (Regional personnel information), and `Returns` (Returned transactions)
   
     - `Orders` & `Returns`: Fact table
  
     - `People` : Dim table
- 
+
+ - Data Modelling
+   
+   <img width="671" alt="image" src="https://github.com/user-attachments/assets/fb7d58c0-b599-4f45-957f-654b6350aa75" />
+
   ---
   # 🧠 Design Thinking Process
 
@@ -126,3 +130,57 @@ This project centers around **analyzing global sales data from Superstore**, a r
 <img width="268" alt="image" src="https://github.com/user-attachments/assets/abbfa6aa-132f-46e8-8ff7-cda67ab5ad55" />
 
 ## ✍️ Stage 2: Define
+
+
+---
+# 🌈Main Process: 
+
+## 1. DATA PREPARATION (POWER QUERY & DAX) 
+
+- Created relationships between 3 tables through primary keys within POWER BI
+
+- Performed data cleaning and transformation using Power Query Editor, including handling missing values and changing data types.
+
+- Used DAX measures and calculated columns to derive critical business metrics such as `Average Date Shipment`, `Product Profitability`.
+
+## 2. Key insights & Visualizations 
+
+### PAGE 1: SUPERSTORE SALES ANALYSIS OVERVIEW
+
+![image](https://github.com/user-attachments/assets/a54f9463-4d9f-4237-967e-e97c9a54c857)
+
+This dashboard provides a comprehensive overview of Superstore's sales performance from 2011 to 2014. 
+
+**🧩 Key Metrics**
+
+- **Total Revenue:** $12.64M
+
+- **Total Profit:** $1.47M
+
+- **Profit Margin:** 11.61%
+
+- **Total Quantity Sold:** 178K units
+
+- **Total Customers:** 2K
+
+- **Return Rate:** 2.29%
+
+**📈 Trends Over Time**
+
+- **Revenue** and **Profit** both showed strong year-over-year growth, with revenue increasing from $2.26M in 2011 to $4.30M in 2014.
+
+- Profit followed a similar growth pattern, indicating healthy financial performance and scalability over time.
+
+**🌍 Regional Insights**
+
+- The **Central region leads in total revenue ($2.82M)**, but North Asia boasts the highest profit margin (19.52%).
+
+- **South** and **Central Asia** regions have significant room for margin improvement, indicating potential operational inefficiencies.
+
+- Average shipping times are relatively consistent across regions (~4 days), with no clear bottlenecks.
+
+**🌐 Market Distribution**
+
+- The map visualization highlights high-performing markets like **Europe and North America**, where business volume and customer base are concentrated.
+
+- This geographic data helps identify strategic regions for expansion and investment
