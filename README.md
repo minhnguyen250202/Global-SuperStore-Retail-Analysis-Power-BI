@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/58aa2228-543a-4a5c-93b1-78e4f5b1c228)# 📊 Global-SuperStore-Retail-Analysis-Power-BI
+# 📊 Global-SuperStore-Retail-Analysis-Power-BI
 
 <img width="952" alt="image" src="https://github.com/user-attachments/assets/19979350-1c9e-475e-b174-b9b6267a5c1d" />
 
@@ -184,3 +184,191 @@ This dashboard provides a comprehensive overview of Superstore's sales performan
 - The map visualization highlights high-performing markets like **Europe and North America**, where business volume and customer base are concentrated.
 
 - This geographic data helps identify strategic regions for expansion and investment
+
+### PAGE 2: REGIONAL PERFORMANCE 
+
+![image](https://github.com/user-attachments/assets/39964fc0-f41a-4f82-99d0-69e371304f66)
+
+**📈 Revenue Trend by Year and Market**
+
+- **APAC** shows steady and strong growth across the years, peaking in 2014.
+
+- **EU** and **US** exhibit consistent upward trends, indicating expanding customer bases.
+
+- **EMEA, Africa, and Canada** have much smaller and flatter revenue trends, indicating limited growth or market saturation.
+
+**📉 Profit Margin by Market**
+
+- **Canada** surprisingly leads in **profit margin (26.62%)**, likely due to high-value, low-volume transactions or effective cost control.
+
+- Despite leading in volume, **APAC** only ranks mid-tier in margin (~11%), implying potential inefficiencies or aggressive pricing strategies.
+
+- **LATAM and EMEA** have the lowest margins, suggesting operational challenges or high return rates in those markets.
+
+  **📊 Total Revenue by Market and Category**
+
+- **APAC** leads with the highest total revenue of **$3.6M**, followed by **EU **($2.9M) and US ($2.3M).
+
+- **Canada** ranks last in revenue with just **$0.1M**, suggesting minimal market activity or late entry into the region.
+
+**💰 Total Profit by Market**
+
+- **APAC** also tops in profit with **$0.44M**, confirming it as the most lucrative market.
+
+- **EU and US** follow with **$0.37M and $0.29M**, respectively.
+
+- **Canada** again shows the weakest performance with only **$0.02M profit**, potentially due to low volume or high costs.
+
+
+**💡 Key Insights**
+
+- **APAC** is the most valuable market in both revenue and profit, making it a clear strategic focus.
+
+- Canada, although small in size, delivers high profitability per transaction, which could be worth exploring further for niche growth.
+
+- LATAM and EMEA markets may require operational review or marketing support to improve margins.
+
+Regional trends support targeted strategies: invest more in APAC/EU, re-evaluate EMEA, and explore opportunities in Canada for margin-focused growth.
+
+### PAGE 3: PRODUCT INSIGHTS 
+
+![image](https://github.com/user-attachments/assets/26f423b2-c539-4283-9089-f1b30f44c4c6)
+
+**1️⃣ Total Revenue by Category**
+
+📌 Insights:
+
+- Furniture is the top revenue-generating category.
+
+- Technology generates the least revenue, but only slightly behind Office Supplies.
+
+- Revenue is relatively evenly distributed, which suggests a diverse portfolio.
+
+**2️⃣ Total Revenue by Ship Mode**
+
+📌 Insights:
+
+- Standard Class dominates revenue – it's the preferred shipping mode.
+
+- Faster shipping options like First Class and Same Day contribute less, likely due to higher costs or limited availability.
+
+**3️⃣ Total Quantity by Segment**
+
+- Consumer segment accounts for the majority of orders (more than half).
+
+- Corporate and Home Office segments are significantly smaller in volume.
+
+**4️⃣ Total Profit by Category and Sub-Category**
+
+💰 Key insights by sub-category:
+
+- Technology sub-categories (e.g., Copiers and Phones) are the most profitable.
+
+- Tables in Furniture show a net loss – only sub-category with negative profit.
+
+- Other profitable sub-categories: Bookcases, Appliances, Chairs, Binders, Paper, Supplies.
+
+- Some sub-categories (e.g., Fasteners, Labels) have very low or near-zero profit.
+
+📌 Insights:
+
+- Not all high-revenue sub-categories are profitable.
+
+- Tables should be reviewed — high cost, low margin, or discounts might be affecting profitability.
+
+- Technology is the most profitable category overall.
+
+**5️⃣ Top 5 Highest Profit Products**
+
+- The Canon printer is the most profitable individual product by a large margin.
+
+- Technology products (phones and printers) dominate the profit chart.
+
+- Furniture item (Bookcase) also makes it to the top list, showing that Furniture can still be profitable in specific SKUs.
+
+  ### PAGE 4: GROWTH TRENDS
+
+![image](https://github.com/user-attachments/assets/6778c615-f6c9-4674-994e-f1a1398c7ad4)
+
+
+**Strong cumulative growth over the 4-year period**
+
+- The total revenue shown represents a cumulative value from 2011 to 2014, reaching $12.6M.
+
+- Compared to the previous 3-year period (2011–2013), there was a 51.54% increase, indicating a significant acceleration in growth in 2014.
+
+- However, this growth should be interpreted as multi-year expansion, not a single-year leap.
+
+**Year-over-year sales trends confirm the growth**
+
+- The line chart shows a steady increase in monthly revenue over time, confirming consistent upward momentum.
+
+- The spike in 2014 further supports that the last year contributed significantly to the overall growth.
+
+**Canada stands out with the highest profit margin**
+
+Canada consistently maintains a profit margin above 30%, significantly higher than other markets.
+
+This suggests high pricing power or operational efficiency in that region.
+
+**Opportunities in underperforming markets**
+
+EMEA shows low and stagnant profit margins (~5%), which could signal issues in pricing, competition, or cost structure.
+
+LATAM and Africa show moderate margins, but Africa displays a slight upward trend, suggesting potential for improvement.
+
+**US and EU maintain stable but moderate margins**
+
+Both regions show consistent profit margins around 13–14% across years.
+
+These regions are stable but might require innovation or cost optimization to improve profitability further.
+
+---
+# 🔎 Final Conclusion & Recommendations
+
+### 🔍 Conclusion**
+
+The business performance of SuperStore between 2011 and 2014 reveals a strong growth trajectory. 
+- Both revenue and profit have increased significantly over the years, with a peak in 2014, suggesting that the company is successfully scaling.
+- Technology remains the leading category in terms of revenue and profitability, while Consumer and Corporate segments account for over 70% of sales volume.
+- However, profitability varies across markets and sub-categories—Canada, for instance, shows high margins but generates relatively low revenue, and the “Tables” sub-category is the only one operating at a loss.
+- Return rate has slightly decreased to 2.29%, a positive signal for operational efficiency.
+
+Despite the overall growth, some insights suggest opportunities for strategic focus: certain regions and product lines are underperforming, while others offer high margins yet remain untapped. Aligning marketing, sales, and product strategies with these insights will allow SuperStore to optimize performance and sustain long-term growth.
+
+### ✅ Strategic Recommendations
+
+**1. Refine Regional Strategy**
+
+- Focus on high-revenue markets (APAC, EU, US, LATAM) to continue scaling, while optimizing costs to maintain margins.
+
+- Expand in Canada by boosting brand awareness, increasing ad spend, or launching localized campaigns—given its high profit margin and untapped potential.
+
+**2. Enhance Customer Segmentation Tactics**
+
+- Prioritize cross-sell and upsell strategies for Corporate and Consumer customers (which represent >70% of the customer base).
+
+- Consider developing B2B-focused solutions for Office Supplies or underperforming products.
+
+**3. Product Line Optimization**
+
+- Double down on Technology and explore complementary upsell products (e.g., software, accessories).
+
+- For Office Supplies, re-evaluate underperforming items or bundle offers to increase volume and profitability.
+
+**4. Address Weak Sub-Categories**
+
+- Investigate root causes for Tables' negative margin (pricing, shipping, returns) and pivot strategy: new pricing, bundling, or alternate sales channels.
+
+**5. Capitalize on Hero Products**
+
+- Leverage the success of Canon imageCLASS 2200 by increasing its visibility in campaigns and prioritizing it in supply chain and sales planning.
+
+- Use it as a benchmark to replicate high-margin strategies for similar high-end products.
+
+**6. Improve Data Granularity**
+
+- Split metrics by year, not multi-year aggregates, to better track growth trends and measure performance accurately.
+
+- This will help produce more precise YoY insights and avoid misleading growth indicators.
+
