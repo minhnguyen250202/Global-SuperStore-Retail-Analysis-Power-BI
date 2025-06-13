@@ -12,7 +12,6 @@ Tools Used: POWER BI
 ---
 # 📑 Table of Contents
 
-
 --- 
 # 📌 Background & Overview
 
